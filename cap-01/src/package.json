@@ -1,0 +1,28 @@
+{
+  "name": "charfreq",
+  "version": "1.0.0",
+  "description": "Character Frequency Histograms from JavaScript Guide",
+  "main": "charfreq.js",
+  "scripts": {
+    "test": "node charfreq.js < corpus.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesvv27/JavaScript.git"
+  },
+  "keywords": [
+    "CharFreq",
+    "Histogram"
+  ],
+  "author": "jamesvv27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesvv27/JavaScript/issues"
+  },
+  "homepage": "https://github.com/jamesvv27/JavaScript#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0",
+    "globals": "^16.0.0"
+  }
+}

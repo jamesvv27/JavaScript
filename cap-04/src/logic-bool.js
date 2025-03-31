@@ -1,4 +1,4 @@
-let a = c = true;
+let a = true, c = true;
 let b = false;
 
 let x = a && b; // => false

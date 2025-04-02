@@ -1,0 +1,28 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "expressions",
+  "main": "array_matrix.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesvv27/JavaScript.git"
+  },
+  "keywords": [
+    "expressions",
+    "objects"
+  ],
+  "author": "jamesvv27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesvv27/JavaScript/issues"
+  },
+  "homepage": "https://github.com/jamesvv27/JavaScript#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "eslint": "^9.23.0",
+    "globals": "^16.0.0"
+  }
+}

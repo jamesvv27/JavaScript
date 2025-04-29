@@ -1,3 +1,3 @@
 for(;;){
-	console.log("Al infinito y más allá");
+    console.log("Al infinito y más allá");
 }

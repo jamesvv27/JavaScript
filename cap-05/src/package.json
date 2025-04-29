@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "struct",
   "main": "dowhile.js",
+  "type": "module",
   "scripts": {
     "test": "node"
   },

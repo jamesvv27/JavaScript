@@ -3,8 +3,8 @@
 let a = 2;
 
 try{
-	b = a + 2;
+    b = a + 2;
 }
 catch(e){
-	console.error(e);
+    console.error(e);
 }

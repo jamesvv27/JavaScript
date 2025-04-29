@@ -1,0 +1,37 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "struct",
+  "main": "dowhile.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesvv27/JavaScript.git"
+  },
+  "keywords": [
+    "for",
+    "in",
+    "of",
+    "do",
+    "while",
+    "break",
+    "return",
+    "continue",
+    "try",
+    "catch"
+  ],
+  "author": "jamesvv27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesvv27/JavaScript/issues"
+  },
+  "homepage": "https://github.com/jamesvv27/JavaScript#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.25.1",
+    "@eslint/json": "^0.12.0",
+    "eslint": "^9.25.1",
+    "globals": "^16.0.0"
+  }
+}

@@ -35,7 +35,7 @@ Math.cos(x); // No ocurre nada
 cx = Math.cos(x);  // Lo que retorne la funcion se asigna a la variable
 ```
 
-## Sentencias vacías
+## Bloques y sentencias vacías
 
 Un _bloque de sentencias_ combina varias sentencias en una sola. Consiste en una secuencia de sentencias encerradas dentro de llaves.
 
